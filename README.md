@@ -1,5 +1,3 @@
-# What this is
-
 This project is a simple todo checklist made with React
 
 # Getting Started with Create React App
